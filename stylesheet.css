@@ -1,30 +1,4 @@
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
-}
-
 /* main styles */
-
-@font-face {
-font-family: myFirstFont;
-src: url(Crimson-Semibold-webfont.woff) format("woff");
-}
 
 nav {
 	height: 50px;
@@ -40,7 +14,7 @@ img {
 
 li {
 	display: inline-block;
-	font-family: "CrimsonSemibold";
+	font-family: "Crimson Text";
 	padding: 10px;
     font-size: 16px;
 }
@@ -57,7 +31,7 @@ li {
 }
 
 h1 {
-	font-family: "CrimsonSemibold", "Times New Roman";
+	font-family: "Crimson Text", "Times New Roman";
 	font-weight: bold;
 	text-align: center;
 	font-size: 48px;
@@ -65,7 +39,7 @@ h1 {
 }
 
 h2 {
-	font-family: "CrimsonSemibold", "Times New Roman";
+	font-family: "Crimson Text", "Times New Roman";
 	font-weight: bold;
 	text-align: center;
 	font-size: 20px;
@@ -84,7 +58,7 @@ h2 {
 	padding: 5%;
 	border: 100px black;
 	border-radius: 2px;
-	font-family: "CrimsonSemibold", "Times New Roman;
+	font-family: "Crimson Text", "Times New Roman;
 	}
 
 
